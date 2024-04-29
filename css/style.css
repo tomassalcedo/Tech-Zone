@@ -199,14 +199,14 @@ nav {
 
 
 .marcas {
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     background-color: rgb(12, 12, 201);
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
     height: auto;
-    margin-right: 1rem;
+    
 }
 
 
@@ -265,7 +265,7 @@ nav {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-left: 1rem;
+    
 }
 
 .ui-item {
